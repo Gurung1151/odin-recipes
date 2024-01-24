@@ -2,9 +2,15 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-.heading .list {
+.heading {
     background-color: aqua;
     font-size: 40px;
+    text-align: center;
+}
 
+.list {
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none;
 }
 
